@@ -1,0 +1,4 @@
+<?php
+/* ‚±‚ñ‚É‚¿‚ÍI */
+
+echo "Hello World!!";
