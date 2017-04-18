@@ -2,3 +2,5 @@
 /* ‚±‚ñ‚É‚¿‚ÍI */
 
 echo "Hello World!!";
+
+echo "¡“ú‚Í". date("Y”NmŒd“ú"). "‚Å‚·B". PHP_EOL;
