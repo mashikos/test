@@ -15,3 +15,4 @@ echo "Hello World!!";
 echo "ようこそ、$idさん！". PHP_EOL;
 echo "今は". date("H:i:s"). "です。". PHP_EOL;
 echo "このプログラムは開発中です。". PHP_EOL;
+echo "簡易ログイン機能を実装しました。". PHP_EOL;
