@@ -1,5 +1,5 @@
 <?php
-// ‚Æ‚è‚ ‚¦‚¸ŠÖ”‚¾‚¯[
+// ï¿½Æ‚è‚ ï¿½ï¿½ï¿½ï¿½ï¿½Öï¿½ï¿½ï¿½ï¿½ï¿½ï¿½[
 function login($id, $password)
 {
 	if ($id == 'test' && $password == 'test') {
@@ -7,4 +7,9 @@ function login($id, $password)
 	}
 	
 	return false;
+}
+
+function getDate()
+{
+	return date("Y-m-d H:i:s");
 }
